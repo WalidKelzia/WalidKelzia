@@ -7,7 +7,10 @@
 **Founder of [ITS – Innovative Technical Solutions](https://its-co.net)** · Product Owner · Business Analyst<br>
 I build management systems that run real businesses: inventory, sales, finance and HR.
 
-[ITS](https://its-co.net) · [Website](https://walidkelzia.com/) · [LinkedIn](https://www.linkedin.com/in/walid-kelzia/) · [@its-co on GitHub](https://github.com/its-co)
+[![ITS](https://img.shields.io/badge/ITS-its--co.net-0B1F4B?style=flat-square)](https://its-co.net)
+[![Website](https://img.shields.io/badge/Website-walidkelzia.com-1E88E5?style=flat-square)](https://walidkelzia.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-walid--kelzia-0A66C2?style=flat-square)](https://www.linkedin.com/in/walid-kelzia/)
+[![GitHub](https://img.shields.io/badge/GitHub-@its--co-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/its-co)
 
 ---
 
@@ -45,7 +48,14 @@ Product thinking comes first, code comes second.
 
 Computer Engineer and Agile Product Owner with experience in **FinTech**, **ERP / POS** and **B2B systems**.
 
-`Agile / Scrum` `Business Analysis` `Product Discovery` `Notion` `Figma` `Mermaid` `Claude Code` `Claude Design`
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-0B1F4B?style=flat-square)
+![BA](https://img.shields.io/badge/Business%20Analysis-0B1F4B?style=flat-square)
+![Discovery](https://img.shields.io/badge/Product%20Discovery-0B1F4B?style=flat-square)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square)
+![Claude Design](https://img.shields.io/badge/Claude%20Design-D97757?style=flat-square)
 
 Arabic (Native) · Turkish (Fluent) · English (Intermediate)
 
