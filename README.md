@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="ITS – Innovative Technical Solutions" width="100%">
+</p>
+
 # Hi, I'm Walid Kelzia
 
 **Founder of [ITS – Innovative Technical Solutions](https://its-co.net)** · Product Owner · Business Analyst<br>
