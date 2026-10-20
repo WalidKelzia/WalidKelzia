@@ -1,6 +1,6 @@
 # Hi, I'm Walid Kelzia
 
-**Founder of [ITS – Innovative Technical Solutions](https://its-co.net)** · Product Owner · Business Analyst
+**Founder of [ITS – Innovative Technical Solutions](https://its-co.net)** · Product Owner · Business Analyst<br>
 I build management systems that run real businesses: inventory, sales, finance and HR.
 
 [ITS](https://its-co.net) · [Website](https://walidkelzia.com/) · [LinkedIn](https://www.linkedin.com/in/walid-kelzia/) · [@its-co on GitHub](https://github.com/its-co)
